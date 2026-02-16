@@ -7,7 +7,7 @@ Frontend:
   3. If you want to run this application on your machine. Give a try to below commands!
   4.  1. git clone https://github.com/Aravind2004-max/reminder-app.git.
       2. open in vs code, android studio or any ide's which supports flutter development.
-      3. then start run without debugging.
+      3. then `flutter build apk`.
       
 Backend:
   1. Using node.js and mysql i developed the backend for this app.
